@@ -1,0 +1,74 @@
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-helvetica-neue: "Helvetica Neue";
+  --font-montserratroman-semibold: MontserratRoman-SemiBold;
+
+  /* font sizes */
+  --font-size-2xs: 6px;
+  --font-size-xs: 10px;
+  --font-size-sm: 11px;
+  --font-size-base: 12px;
+  --font-size-lg: 13px;
+  --font-size-xl: 14px;
+  --font-size-2xl: 15px;
+  --font-size-3xl: 16px;
+  --font-size-4xl: 18px;
+  --font-size-5xl: 20px;
+  --font-size-6xl: 22px;
+  --font-size-7xl: 25px;
+  --font-size-8xl: 28px;
+  --font-size-9xl: 30px;
+  --font-size-10xl: 40px;
+
+  /* Colors */
+  --color-gray-100: #f1f0f0;
+  --color-gray-200: #f0f0f0;
+  --color-gray-300: #f0efef;
+  --color-gray-400: #ececec;
+  --color-gray-500: #e3e4e8;
+  --color-gray-600: #c8cdce;
+  --color-gray-700: #c9ccce;
+  --color-gray-800: #c8ccce;
+  --color-gray-900: #c4c4c4;
+  --color-gray-1000: #aba7a7;
+  --color-gray-1100: #707070;
+  --color-gray-1200: #2e465b;
+  --color-gray-1300: #223c53;
+  --color-gray-1400: #243a54;
+  --color-gray-1500: #223b53;
+  --color-gray-1600: #233a53;
+  --color-gray-1700: #233954;
+  --color-gray-1800: #1d3b56;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-red: #fb151d;
+  --color-yellow: #d5dc08;
+  --color-green: #08dc64;
+  --color-beige-100: #c2bebe;
+  --color-beige-200: #bebebe;
+  --color-teal: #4b87a7;
+
+  /* border radiuses */
+  --br-9xs: 2px;
+  --br-8xs: 6px;
+  --br-7xs: 7px;
+  --br-6xs: 8px;
+  --br-5xs: 11px;
+  --br-4xs: 14px;
+  --br-3xs: 15px;
+  --br-2xs: 16px;
+  --br-xs: 17px;
+  --br-sm: 18px;
+  --br-md: 20px;
+  --br-lg: 21px;
+  --br-xl: 22px;
+  --br-2xl: 25px;
+  --br-3xl: 27px;
+  --br-4xl: 28px;
+  --br-5xl: 29px;
+  --br-6xl: 32px;
+  --br-7xl: 34px;
+  --br-8xl: 35px;
+  --br-9xl: 42px;
+}

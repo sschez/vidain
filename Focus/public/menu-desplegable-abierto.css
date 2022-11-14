@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div156 {
+  position: absolute;
+  top: 19px;
+  left: -49px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1800);
+  width: 267px;
+  height: 984px;
+}
+.group-icon16 {
+  position: absolute;
+  top: 42.39px;
+  left: 12.8px;
+  width: 31.41px;
+  height: 31.41px;
+}
+.notificacion-4-icon3,
+.usuario-icon3 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.notificacion-4-icon3 {
+  top: 92px;
+  left: 13px;
+}
+.usuario-icon3 {
+  bottom: 43px;
+  left: 11px;
+}
+.ejercicio-icon3,
+.paciente-3-icon3 {
+  position: absolute;
+  top: 137px;
+  left: 10px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.ejercicio-icon3 {
+  top: 186px;
+  left: 9px;
+  width: 36px;
+  height: 36px;
+}
+.calendario-1-icon3,
+.llamada-de-emergencia-icon3 {
+  position: absolute;
+  top: 241px;
+  left: 12px;
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+}
+.llamada-de-emergencia-icon3 {
+  top: 291px;
+  left: 13px;
+  width: 27px;
+  height: 27px;
+}
+.servicio-al-cliente-icon3 {
+  position: absolute;
+  bottom: 89px;
+  left: 11px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.notificaciones-div,
+.pacientes-div,
+.progreso-div1,
+.terapias-div {
+  position: absolute;
+  top: 101px;
+  left: 48px;
+  font-weight: 600;
+  display: inline-block;
+}
+.pacientes-div,
+.progreso-div1,
+.terapias-div {
+  top: 150px;
+  left: 49px;
+}
+.progreso-div1,
+.terapias-div {
+  top: 199px;
+  left: 48px;
+}
+.progreso-div1 {
+  top: 349px;
+  left: 51px;
+}
+.mi-programacin-div {
+  top: 248px;
+  left: 49px;
+}
+.emergencia-div,
+.mi-perfil-div,
+.mi-programacin-div,
+.soporte-div {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.emergencia-div {
+  top: 297px;
+  left: 49px;
+}
+.mi-perfil-div,
+.soporte-div {
+  bottom: 96px;
+  left: 48px;
+}
+.mi-perfil-div {
+  bottom: 47px;
+  left: 46px;
+}
+.crecimiento-icon {
+  position: absolute;
+  top: 331px;
+  left: 5px;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.menu-desplegable-abierto-div {
+  position: relative;
+  width: 768px;
+  height: 1024px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

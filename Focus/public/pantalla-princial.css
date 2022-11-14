@@ -1,0 +1,1005 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div157 {
+  position: absolute;
+  top: -31px;
+  left: -44px;
+  background-color: var(--color-gray-400);
+  width: 857px;
+  height: 1086px;
+}
+.mi-semana-b1,
+.pacientes-activos-b4 {
+  position: absolute;
+  top: 97px;
+  left: 79px;
+  font-size: var(--font-size-8xl);
+  display: inline-block;
+  text-align: left;
+}
+.mi-semana-b1 {
+  top: 520px;
+}
+.rectangle-div158 {
+  position: absolute;
+  top: 135px;
+  left: 79px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gray-100);
+  width: 679px;
+  height: 350px;
+}
+.rectangle-div159 {
+  position: absolute;
+  top: 19px;
+  left: -49px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1800);
+  width: 107px;
+  height: 984px;
+}
+.path-809-icon12 {
+  position: absolute;
+  width: calc(100% - 1.02px);
+  right: 0.43px;
+  bottom: 9px;
+  left: 0.59px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 140px;
+}
+.rectangle-div160 {
+  position: absolute;
+  width: calc(100% - 17.02px);
+  top: calc(50% + 78px);
+  right: 8.43px;
+  left: 8.59px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  height: 20px;
+}
+.rectangle-div161 {
+  position: absolute;
+  bottom: 52px;
+  left: calc(50% - 26.92px);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-green);
+  width: 34px;
+  height: 11px;
+}
+.edelmira-snchez-div5 {
+  position: absolute;
+  top: calc(50% + 81px);
+  left: 18.59px;
+  font-weight: 600;
+  display: inline-block;
+}
+.blank-line-span {
+  font-weight: 500;
+}
+.blank-line-p {
+  margin: 0;
+}
+.span24 {
+  font-family: var(--font-montserrat);
+}
+.span26,
+.span28 {
+  font-weight: 300;
+  color: var(--color-white);
+}
+.span28 {
+  color: var(--color-black);
+}
+.estado-activa-tiempo-restante {
+  position: absolute;
+  bottom: 0;
+  left: 8.59px;
+  font-size: var(--font-size-xs);
+  line-height: 17px;
+  text-align: left;
+  display: inline-block;
+}
+.group-icon17,
+.path-807-icon8 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon17 {
+  height: calc(100% - 95.62px);
+  bottom: 95.62px;
+  object-fit: cover;
+}
+.path-807-icon8 {
+  height: calc(100% - 0.76px);
+  bottom: 0.76px;
+}
+.modulo-1-div {
+  position: absolute;
+  height: calc(100% - 1.2px);
+  width: calc(100% + 1px);
+  top: 1.2px;
+  left: 0;
+  display: inline-block;
+}
+.group-div50 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 32.22px);
+  width: 64.45px;
+  height: 18.54px;
+  color: var(--color-white);
+  font-family: var(--font-montserratroman-semibold);
+}
+.group-div49 {
+  position: absolute;
+  top: 146px;
+  left: 90.41px;
+  width: 147.02px;
+  height: 334px;
+}
+.hora-div1,
+.path-807-icon9 {
+  position: absolute;
+  top: 561.76px;
+  left: 109.09px;
+  width: 51.81px;
+  height: 17.78px;
+}
+.hora-div1 {
+  top: 562.2px;
+  left: 102.78px;
+  font-family: var(--font-montserratroman-semibold);
+  color: var(--color-white);
+  display: inline-block;
+  width: 65.45px;
+  height: 17.34px;
+}
+.path-809-icon13 {
+  position: absolute;
+  top: 331px;
+  left: 259px;
+  width: 146px;
+  height: 140px;
+}
+.rectangle-div162 {
+  position: absolute;
+  top: 391px;
+  left: 267px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  width: 130px;
+  height: 20px;
+}
+.rectangle-div163 {
+  position: absolute;
+  top: 417px;
+  left: 305px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-yellow);
+  width: 54px;
+  height: 11px;
+}
+.martha-duque-div4 {
+  position: absolute;
+  top: 394px;
+  left: 287px;
+  font-weight: 600;
+  display: inline-block;
+}
+.estado-dificultad-tiempo-rest {
+  position: absolute;
+  top: 399px;
+  left: 267px;
+  font-size: var(--font-size-xs);
+  line-height: 17px;
+  text-align: left;
+  display: inline-block;
+}
+.path-809-icon14 {
+  position: absolute;
+  top: 331px;
+  left: 427px;
+  width: 146px;
+  height: 140px;
+}
+.rectangle-div164 {
+  position: absolute;
+  top: 391px;
+  left: 435px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  width: 130px;
+  height: 20px;
+}
+.rectangle-div165 {
+  position: absolute;
+  top: 417px;
+  left: 471px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-red);
+  width: 36px;
+  height: 13px;
+}
+.pedro-garca-div {
+  position: absolute;
+  top: 394px;
+  left: 460px;
+  font-weight: 600;
+  display: inline-block;
+}
+.estado-alerta-tiempo-restante {
+  position: absolute;
+  top: 400px;
+  left: 433px;
+  font-size: var(--font-size-xs);
+  line-height: 17px;
+  text-align: left;
+  display: inline-block;
+}
+.group-div52 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-div51,
+.group-icon18 {
+  position: absolute;
+  top: 146px;
+  left: 426.41px;
+  width: 147.02px;
+  height: 238.38px;
+}
+.group-icon18 {
+  left: 258.92px;
+  width: 146px;
+  height: 236.62px;
+  object-fit: cover;
+}
+.path-809-icon15 {
+  position: absolute;
+  top: 331px;
+  right: 27px;
+  width: 146px;
+  height: 140px;
+}
+.rectangle-div166 {
+  position: absolute;
+  top: 391px;
+  right: 35px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  width: 130px;
+  height: 20px;
+}
+.rectangle-div167 {
+  position: absolute;
+  top: 417px;
+  right: 72px;
+  border-radius: var(--br-9xs);
+  background-color: rgba(29, 59, 86, 0.49);
+  width: 55px;
+  height: 11px;
+}
+.glora-ramrez-div {
+  position: absolute;
+  top: 394px;
+  right: 54px;
+  font-weight: 600;
+  display: inline-block;
+}
+.estado-sin-iniciar-tiempo-res {
+  position: absolute;
+  top: 399px;
+  right: 49px;
+  font-size: var(--font-size-xs);
+  line-height: 17px;
+  text-align: left;
+  display: inline-block;
+}
+.group-div53,
+.group-div55 {
+  position: absolute;
+  top: 146px;
+}
+.group-div53 {
+  right: 26.57px;
+  width: 147.02px;
+  height: 238.38px;
+}
+.group-div55 {
+  left: 299.7px;
+  width: 64.45px;
+  height: 18.54px;
+  color: var(--color-white);
+  font-family: var(--font-montserratroman-semibold);
+}
+.group-icon19 {
+  position: absolute;
+  top: 146px;
+  left: 427px;
+  width: 146px;
+  height: 236.62px;
+  object-fit: cover;
+}
+.group-div56 {
+  position: absolute;
+  top: 146px;
+  left: 467.7px;
+  width: 64.45px;
+  height: 18.54px;
+  color: var(--color-white);
+  font-family: var(--font-montserratroman-semibold);
+}
+.group-icon20 {
+  position: absolute;
+  top: 146px;
+  right: 26.86px;
+  width: 146.43px;
+  height: 237.32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-div57 {
+  position: absolute;
+  top: 146px;
+  right: 67.85px;
+  width: 64.45px;
+  height: 18.54px;
+  color: var(--color-white);
+  font-family: var(--font-montserratroman-semibold);
+}
+.focus-removebg-preview-icon5 {
+  position: absolute;
+  top: -99px;
+  left: 275px;
+  border-radius: var(--br-9xl);
+  width: 205px;
+  height: 205px;
+  object-fit: cover;
+}
+.group-icon21 {
+  position: absolute;
+  top: 42.69px;
+  left: 12.8px;
+  width: 31.41px;
+  height: 31.41px;
+}
+.notificacion-4-icon4,
+.usuario-icon4 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.notificacion-4-icon4 {
+  top: 92.31px;
+  left: 13px;
+}
+.usuario-icon4 {
+  bottom: 42.69px;
+  left: 11px;
+}
+.ejercicio-icon4,
+.paciente-3-icon4 {
+  position: absolute;
+  top: 137.31px;
+  left: 10px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.ejercicio-icon4 {
+  top: 186.31px;
+  left: 9px;
+  width: 36px;
+  height: 36px;
+}
+.calendario-1-icon4,
+.llamada-de-emergencia-icon4 {
+  position: absolute;
+  top: 241.31px;
+  left: 12px;
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+}
+.llamada-de-emergencia-icon4 {
+  top: 291.31px;
+  left: 13px;
+  width: 27px;
+  height: 27px;
+}
+.servicio-al-cliente-icon4 {
+  position: absolute;
+  bottom: 88.69px;
+  left: 11px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.rectangle-div168 {
+  position: absolute;
+  bottom: 107px;
+  left: 97px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-1800);
+  box-sizing: border-box;
+  width: 76px;
+  height: 356px;
+}
+.rectangle-div169 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% + 522px);
+  top: 0;
+  right: -428px;
+  bottom: 0;
+  left: -94px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gray-100);
+}
+.scroll-group-3 {
+  position: absolute;
+  right: 17px;
+  bottom: 93px;
+  width: 578px;
+  height: 377px;
+  mix-blend-mode: normal;
+}
+.am-div8 {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 7px);
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.component-1-116 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75px;
+  height: 14px;
+}
+.path-815-icon1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: -0.5px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.div137 {
+  position: absolute;
+  width: calc(100% + 33px);
+  top: 0;
+  right: -33px;
+  left: 0;
+  height: 17.5px;
+}
+.line-div60 {
+  position: absolute;
+  width: calc(100% + 0.5px);
+  right: 0;
+  bottom: -1px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  height: 2px;
+}
+.div138,
+.div139 {
+  position: absolute;
+  width: 100%;
+  top: 20px;
+  right: 0;
+  left: 0;
+  height: 17.5px;
+}
+.div139 {
+  top: 40px;
+}
+.div140,
+.div141,
+.div142,
+.div143,
+.div144,
+.div145,
+.div146,
+.div147 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 100px);
+  right: 0;
+  left: 0;
+  height: 17.5px;
+}
+.div141,
+.div142,
+.div143,
+.div144,
+.div145,
+.div146,
+.div147 {
+  top: calc(50% - 80px);
+}
+.div142,
+.div143,
+.div144,
+.div145,
+.div146,
+.div147 {
+  top: calc(50% - 60px);
+}
+.div143,
+.div144,
+.div145,
+.div146,
+.div147 {
+  top: calc(50% - 40px);
+}
+.div144,
+.div145,
+.div146,
+.div147 {
+  top: calc(50% - 20px);
+}
+.div145,
+.div146,
+.div147 {
+  top: calc(50% - 0px);
+}
+.div146,
+.div147 {
+  top: calc(50% + 20px);
+}
+.div147 {
+  top: calc(50% + 40px);
+}
+.div148 {
+  top: calc(50% + 60px);
+}
+.div148,
+.div149,
+.div150,
+.div151 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 17.5px;
+}
+.div149 {
+  top: calc(50% + 80px);
+}
+.div150,
+.div151 {
+  bottom: 42.5px;
+}
+.div151 {
+  bottom: 22.5px;
+}
+.div152,
+.path-814-icon1 {
+  position: absolute;
+  bottom: 0.5px;
+  left: 644px;
+  width: 0;
+  height: 0;
+}
+.div152 {
+  width: 100%;
+  right: 0;
+  bottom: 2.5px;
+  left: 0;
+  height: 17.5px;
+}
+.repeat-grid-11 {
+  position: absolute;
+  bottom: 107px;
+  left: 97px;
+  width: 644.5px;
+  height: 320px;
+  font-size: var(--font-size-sm);
+}
+.repeat-grid-31 {
+  position: absolute;
+  top: calc(50% - 125px);
+  right: 0;
+  width: 427px;
+  height: 289px;
+}
+.path-816-icon7 {
+  position: absolute;
+  height: calc(100% - 8.5px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 8.5px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.luz-cadavid-div1,
+.paciente-div9 {
+  position: absolute;
+  left: 5.01px;
+  display: inline-block;
+}
+.luz-cadavid-div1 {
+  top: calc(50% - 19.25px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+}
+.paciente-div9 {
+  top: 2.81px;
+  line-height: 17px;
+}
+.span58 {
+  font-weight: 300;
+}
+.span57 {
+  color: var(--color-black);
+}
+.terapia-rodilla-estado-pendi1 {
+  position: absolute;
+  bottom: 0;
+  left: 5.01px;
+  line-height: 12px;
+  display: inline-block;
+}
+.group-div59 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: calc(50% - 81.5px);
+  right: 2.5px;
+  left: 2.5px;
+  height: 65.5px;
+}
+.group-div61 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 32.22px);
+  width: 64.45px;
+  height: 18.54px;
+}
+.rectangle-div170 {
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-1800);
+  box-sizing: border-box;
+}
+.group-div58,
+.group-div60,
+.rectangle-div170 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.group-div60 {
+  width: 100%;
+  right: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-montserratroman-semibold);
+}
+.group-div58 {
+  left: 142px;
+  width: 133px;
+  color: var(--color-gray-1800);
+}
+.rectangle-div172 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 36px;
+  right: 2.5px;
+  left: 2.5px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-600);
+  height: 57px;
+}
+.edelmira-snchez-div6 {
+  position: absolute;
+  top: 49.5px;
+  left: 6.51px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+}
+.paciente-div10,
+.terapia-cadera-estado-pendie1 {
+  position: absolute;
+  left: 7.51px;
+  display: inline-block;
+}
+.paciente-div10 {
+  top: 38.81px;
+  line-height: 17px;
+}
+.terapia-cadera-estado-pendie1 {
+  top: calc(50% - 113.5px);
+  line-height: 12px;
+}
+.path-816-icon8 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: calc(50% - 25.3px);
+  right: 2.5px;
+  left: 2.5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 60.47px;
+}
+.jorge-restrepo-div1,
+.paciente-div11 {
+  position: absolute;
+  left: 7.51px;
+  display: inline-block;
+}
+.jorge-restrepo-div1 {
+  top: calc(50% - 10.06px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+}
+.paciente-div11 {
+  top: calc(50% - 21.19px);
+  line-height: 17px;
+  color: var(--color-beige-200);
+}
+.span62 {
+  font-weight: 300;
+  font-family: var(--font-montserrat);
+}
+.span64 {
+  font-weight: 300;
+  color: var(--color-gray-1000);
+}
+.terapia-hombro-estado-progra1 {
+  position: absolute;
+  top: calc(50% + 4.5px);
+  left: 7.51px;
+  line-height: 12px;
+  display: inline-block;
+  color: var(--color-beige-100);
+}
+.group-div62,
+.path-816-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-div62 {
+  height: 100%;
+  bottom: 0;
+  width: 133px;
+  color: var(--color-gray-1800);
+}
+.path-816-icon9 {
+  height: calc(100% - 6.33px);
+  width: 100%;
+  right: 0;
+  bottom: 6.33px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gabriel-garca-m1 {
+  top: calc(50% - 18.6px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+}
+.gabriel-garca-m1,
+.paciente-div12,
+.terapia-cadera-estado-progra3 {
+  position: absolute;
+  left: 5.01px;
+  display: inline-block;
+}
+.paciente-div12 {
+  top: 4.1px;
+  line-height: 17px;
+  color: var(--color-beige-200);
+}
+.terapia-cadera-estado-progra3 {
+  bottom: 0;
+  line-height: 12px;
+  color: var(--color-beige-100);
+}
+.group-div68 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: 53px;
+  right: 2.5px;
+  left: 2.5px;
+  height: 66.8px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-montserrat);
+}
+.group-div65 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 66.75px);
+  width: 133px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserratroman-semibold);
+}
+.group-div69 {
+  position: absolute;
+  top: calc(50% - 44px);
+  left: calc(50% + 77.75px);
+  width: 128px;
+  height: 66.8px;
+}
+.jos-luiz-a1 {
+  position: absolute;
+  top: calc(50% - 15.6px);
+  left: 5.01px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+}
+.group-div73 {
+  position: absolute;
+  width: calc(100% - 5px);
+  right: 2.5px;
+  bottom: 16px;
+  left: 2.5px;
+  height: 66.8px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-montserrat);
+}
+.group-div70 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% + 75.25px);
+  width: 133px;
+  font-family: var(--font-montserratroman-semibold);
+}
+.group-div70,
+.group-div75,
+.leonel-messi-div1 {
+  position: absolute;
+  font-size: var(--font-size-base);
+  text-align: center;
+}
+.group-div75 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-family: var(--font-montserratroman-semibold);
+}
+.leonel-messi-div1 {
+  top: calc(50% - 18.6px);
+  left: 6.01px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div77 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: calc(50% + 35.7px);
+  right: 2.5px;
+  left: 2.5px;
+  height: 66.8px;
+}
+.alberto-daz-div1 {
+  position: absolute;
+  top: calc(50% - 19.25px);
+  left: 4.01px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+}
+.group-div78 {
+  position: absolute;
+  width: calc(100% - 5px);
+  top: calc(50% - 23.19px);
+  right: 2.5px;
+  left: 2.5px;
+  height: 65.5px;
+  color: var(--color-gray-1800);
+}
+.group-div74 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 208.75px);
+  width: 133px;
+}
+.group-div79 {
+  right: 142.5px;
+  width: 133px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserratroman-semibold);
+}
+.component-5-1,
+.group-div79,
+.group-div81 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.group-div81 {
+  right: 0.5px;
+  width: 133px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserratroman-semibold);
+}
+.component-5-1 {
+  width: calc(100% + 401px);
+  right: -401px;
+  left: 0;
+}
+.scroll-group-4 {
+  position: absolute;
+  right: 0.5px;
+  bottom: 107px;
+  width: 584.5px;
+  height: 356px;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.crecimiento-icon1 {
+  position: absolute;
+  top: 337px;
+  left: 8px;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.pantalla-princial-div {
+  position: relative;
+  width: 768px;
+  height: 1024px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-1800);
+  font-family: var(--font-montserrat);
+}
